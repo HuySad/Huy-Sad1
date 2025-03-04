@@ -302,7 +302,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/TrashLua/BloxFruits/m
   AddButton(Tab6o, {
      Name = "Maru Hub Pemin ( giới hạn 1 máy)",
     Callback = function()
-	  getgenv().Key = "MARU-VLQF-VFNWV-AH0E-JMZAC-VX4L"
+	  getgenv().Key = "MARU-VLQX4L"
 getgenv().id = "1170314201512824893"
 loadstring(game:HttpGet("https://raw.githubusercontent.com/xshiba/MaruBitkub/main/Mobile.lua"))()
   end
@@ -312,7 +312,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/xshiba/MaruBitkub/mai
      Name = "Chuối Hub perm ( giới hạn 1 máy)",
     Callback = function()
 	  repeat wait() until game:IsLoaded() and game.Players.LocalPlayer 
-getgenv().Key = "d888b0f09b49003b5a2bf3d2" 
+getgenv().Key = "d888b0bf3d2" 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/obiiyeuem/vthangsitink/main/BananaHub.lua"))()
   end
   })
@@ -320,7 +320,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/obiiyeuem/vthangsitin
   AddButton(Tab6o, {
      Name = "Royx Hub perm ( giới hạn 1 máy)",
     Callback = function()
-	  _G.Key = "PTP5R-7NIEB-GOBPP"
+	  _G.Key = "PTPOBPP"
 _G.DiscordId = "1170314201512824893"
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Natsuhanaki/Royx_PC/main/loader.lua"))();
   end
@@ -329,7 +329,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Natsuhanaki/Royx_PC/m
   AddButton(Tab6o, {
      Name = "W azun Hub perm ( gioi hạn 1 máy)",
     Callback = function()
-	  script_key = "MSqyemcrrYqKkASwsRfcTjPFhmhMaCEZ"
+	  script_key = "MSqyehmhMaCEZ"
 getgenv().Team = "Pirates"
 getgenv().FixCrash = false -- Turn it On For Hopping Server, Improve Performance But Silent Aim On Mob And Player
 getgenv().FixCrash2 = false -- Turn it On For Hopping Server, Improve Performance But Will Remove Speed Changer
