@@ -101,9 +101,9 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/realredz/BloxFruits/r
   })
   
   AddButton(Tab2o, {
-     Name = "teddy ( updet )",
+     Name = "teddy ( key teddyskibidi2025 )",
     Callback = function()
-	  loadstring(game:HttpGet("https://raw.githubusercontent.com/skibiditoiletgojo/Haidepzai/refs/heads/main/Teddy-Premium"))()
+	  loadstring(game:HttpGet("https://raw.githubusercontent.com/ducsharelink/AllGame/refs/heads/main/teddyhubnew.txt"))()
   end
   })
   
